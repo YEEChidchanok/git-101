@@ -1,1 +1,4 @@
 Name: YEEChidchanok
+Tel: 0989898989
+Address: BKK
+BirthDay: 1996-10-22
